@@ -22,7 +22,7 @@
 #        -> update_and_initialize() (particle-filter tracking)
 #        -> recovered 3D tracks, compared against known ground truth
 #
-# HONEST LABEL:
+# NOTE:
 #   - The INPUT IMAGES ARE SYNTHETIC (rendered streaks on a noisy background),
 #     NOT real photographs. No real Mali field images are publicly available.
 #   - But every processing step that runs on them is the REAL pipeline code.

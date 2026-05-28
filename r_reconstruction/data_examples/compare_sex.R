@@ -15,7 +15,7 @@
 #     object; time; XSplined; YSplined; ZSplined; VXSplined; VYSplined; VZSplined
 #     (positions in metres, velocities in m/s, semicolon-delimited)
 #
-# HONEST LABEL:
+# NOTE:
 #   - Species: Anopheles coluzzii (same complex as An. gambiae s.s. in Butail 2012)
 #   - Setting: laboratory swarms responding to sound stimuli
 #   - Sex assignment is by RECORDING (each session is single-sex), which is the

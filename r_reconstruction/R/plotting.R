@@ -14,7 +14,7 @@
 # All outputs are produced with base R + optional grDevices — no ggplot2 required.
 # See audit/MATLAB_TO_R_CROSSWALK.csv for details.
 #
-# HONEST LABEL: Plots are structural equivalents of the paper figures.
+# NOTE: Plots are structural equivalents of the paper figures.
 #   With synthetic data they demonstrate the plotting architecture;
 #   biological interpretation requires real trajectory data.
 

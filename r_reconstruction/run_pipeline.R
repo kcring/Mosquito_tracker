@@ -17,7 +17,7 @@
 #   source("r_reconstruction/run_pipeline.R")
 #   run_synthetic_demo()
 #
-# HONEST LABEL:
+# NOTE:
 #   - Computational geometry (calibration, epipolar, triangulation) is
 #     faithfully reproduced from the MATLAB source.
 #   - Tracking core (CV-KF + simplified GNN + particle filter weighting)

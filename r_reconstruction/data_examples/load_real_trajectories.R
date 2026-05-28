@@ -22,7 +22,7 @@
 #   They are NOT raw image data.  However, they allow full validation of
 #   every downstream R module: postprocess.R, plotting.R, manual_review.R.
 #
-# HONEST LABEL:
+# NOTE:
 #   - Species:    Anopheles coluzzii (sister species to An. gambiae s.s.)
 #   - Setting:    Laboratory-induced swarms (not wild field swarms)
 #   - Tracker:    Trackit 3D Fly (SciTrackS GmbH), not the Butail MATLAB tracker

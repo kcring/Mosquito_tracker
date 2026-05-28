@@ -22,7 +22,7 @@
 #   - Saves a review-decisions CSV compatible with
 #       manual_review.R::load_review_decisions() + apply_review_decisions()
 #
-# HONEST LIMIT:
+# NOTE:
 #   - The overlay images are SYNTHETIC (rendered by synthetic_image_demo.R),
 #     because no public raw field image sequences exist. Every projection and
 #     tracking step that runs on them is the real pipeline code. When real

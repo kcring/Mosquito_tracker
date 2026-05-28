@@ -19,7 +19,7 @@
 #   - Plotting helpers to visualise tracks before/after review
 #   - A documented Shiny spec stub
 #
-# HONEST LABEL: This is NOT equivalent to the original GUI review.
+# NOTE: This is NOT equivalent to the original GUI review.
 #   It enables the same operations but without synchronised image overlay.
 #   For full visual review, the original MATLAB GUI or a future Shiny app
 #   is required. See SHINY_SPEC below.
