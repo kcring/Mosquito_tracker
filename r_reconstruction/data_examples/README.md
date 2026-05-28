@@ -62,8 +62,7 @@ This directory provides the minimum synthetic test examples needed to:
 - The Feugère files are **single-sex recordings** (`mal-col` = male, `fem-col` = female), enabling a
   genuine sex comparison. Sessions named `notSwarming` are excluded by `compare_sex.R`.
 - These ARE real biological trajectories. They are NOT the Mali 2010 field data from Butail et al. (2012).
-- **Public repo note:** the large Feugère source recordings are intentionally omitted from this
-  GitHub-ready subset. Use the cited Dryad dataset to reproduce the sex-comparison workflow.
+- Use the cited Dryad dataset to reproduce the sex-comparison workflow.
 
 ---
 
