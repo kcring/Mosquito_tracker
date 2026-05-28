@@ -1,0 +1,11 @@
+"metric","Male","Female"
+"N recordings",2,2
+"N tracks",671,1250
+"N position records",689077,1154654
+"Mean flight speed (m/s)",0.407,0.412
+"Median flight speed (m/s)",0.416,0.415
+"Mean horizontal speed (m/s)",0.276,0.281
+"Mean vertical speed (m/s)",0.251,0.257
+"Mean height (cm)",-1.16,-3.78
+"Mean track duration (s)",5.13,4.61
+"Mean path length (m)",1.99,1.84
